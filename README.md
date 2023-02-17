@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @e493956170
+- 👋 Hi, I’m @az
 - 👀 I’m interested in copter
 - 🌱 I’m currently learning c++
 - 💞️ I’m looking to collaborate on advanced tech.
